@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> Don't use this app. I made it when I was still learning what Python actually was, and it has many big flaws (other than how literally easy and broken it is to decode).
+> Based on the fact it has features to decode **any** `.cstx` file, that should give it away.
+>
+> Use an actual tool, not this garbage I made a while ago. It isn't getting updates now anyway.
+> - mralfiem591, from a while after I made this tool
+
 # Custom Python Encryption and Execution Tool
 
 This script allows you to encode Python files into a custom encrypted format (`.cstx`) and decode them back for execution. It uses AES encryption (via the `cryptography` library) to securely encrypt Python code while preserving its line structure.
